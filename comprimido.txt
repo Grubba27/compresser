@@ -1,0 +1,2 @@
+Isso1xé1xum1xtexto1x2x1xvari3x1xlinh3x1xe1xalgum3x1xquebr3x0x2xo1xesta0xpara1x2xprimir1xalgo1xusa-se1xpatterns,1xnesse1xexemplo1xfiz1xtodos1xna1xmão1xpara1xprovar1xum1xconceito0xm3x1x2x1xo1xdevido1xtempo1xé1xpossivel1xfazer1xmuito1x2x1xele
+{'\n':'0x', ' ':'1x', 'com': '2x', 'as': '3x'}

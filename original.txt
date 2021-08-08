@@ -1,0 +1,4 @@
+Isso é um texto com varias linhas e algumas quebras
+como esta
+para comprimir algo usa-se patterns, nesse exemplo fiz todos na mão para provar um conceito
+mas com o devido tempo é possivel fazer muito com ele
