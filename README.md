@@ -8,4 +8,4 @@ then go to the compressor.py and change it replace methods, try find pressibilit
 
 the decompresser cacthes the same words that you used and remakes the file as the original one. you dont need to change the decompresser. it uses a for loop based on the instructions sent in the file. you can see the process in this order 
 
-original -> compresser.py -> comprimido.txt -> decompresser.py -> descomprimido.py
+original.txt -> compresser.py -> comprimido.txt -> decompresser.py -> descomprimido.py
